@@ -24,9 +24,12 @@
 ## 🐍 Contribution snake
 <img src="https://raw.githubusercontent.com/FatmaMoussaa/FatmaMoussaa/output/github-snake-dark.svg" width="100%"/>
 
+## 📬 Contact
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR.EMAIL@example.com"><img src="https://img.shields.io/badge/Email-B66DDB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/fatma-moussa-287087421/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:fatmamoussa1698@gmail.com"><img src="https://img.shields.io/badge/Email-B66DDB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+<p align="center">📫 fatmamoussa1698@gmail.com</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
