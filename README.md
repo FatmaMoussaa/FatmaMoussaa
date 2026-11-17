@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/Python-3F2760?style=flat-square\&logo=python\&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/unittest-6C4590?style=flat-square" alt="unittest"/>
   <img src="https://img.shields.io/badge/Matplotlib-B66DDB?style=flat-square" alt="Matplotlib"/>
-  <a href="https://github.com/FatmaMoussaa/isolation-forest"><img src="https://img.shields.io/badge/view%20the%20code-F2A7BE?style=flat-square\&labelColor=3F2760" alt="View the code"/></a>
+  <a href="https://github.com/FatmaMoussaa/Anomaly-Detection-Isolation-Forest"><img src="https://img.shields.io/badge/view%20the%20code-F2A7BE?style=flat-square\&labelColor=3F2760" alt="View the code"/></a>
 </p>
 
 <br/>
